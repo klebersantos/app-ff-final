@@ -1,0 +1,24 @@
+page-jogos {
+    ion-label.label.label-md {
+        text-align: center;
+    }
+    .titulo-time {
+        font-size: 20px;
+        margin: 20px 0;
+    }
+    .segment-md .segment-button {
+        color: #fff;
+    }
+    .segment-md .segment-button.activated, .segment-md .segment-button.segment-activated {
+        border-color: #fff; 
+    }
+
+    .item-md.item-block .item-inner {
+        padding-right: 0; 
+    }
+
+    .item-md {
+        padding-left: 0; 
+    }
+    
+}
